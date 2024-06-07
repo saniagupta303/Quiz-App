@@ -8,7 +8,7 @@
 
 4.For next question, click "NEXT" button.
 
-5.At the last, user get their result.
+5.At the last, user get result.
 
 6.If user want to play again, click "PLAYAGAIN" button.
 
